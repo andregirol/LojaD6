@@ -1,0 +1,42 @@
+/*	
+* {
+    border: 1px solid green;
+}*/
+
+
+body {
+    padding: 0;
+    margin: 0;
+    Font-family: Dosis, sans-serif;
+    font-weight: 300;
+}
+
+/*Container das Logos*/
+.container {
+    margin: 2% auto;
+    max-width: 60%;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+/*Container das imagens*/
+.social {
+    
+    margin: 0 auto;
+    text-align: center;
+    
+}
+
+.social img {
+    margin: 0 10px 0 10px;
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
